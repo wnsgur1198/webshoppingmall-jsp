@@ -15,6 +15,8 @@ JSP를 이용한 웹 쇼핑몰 개발
 
 IDE : eclipse
 
+WAS : Apache Tomcat
+
 ## Release History
 
 * 1.0.0
